@@ -1,0 +1,4 @@
+int32 strength
+int32 ShootPos
+---
+int32 ShootIsDone

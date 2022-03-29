@@ -1,0 +1,6 @@
+<launch>
+	<!--<include file="$(find nubot_hwcontroller)/launch/nubot_hwcontroller.launch"></include>-->
+	<include file="$(find world_model)/launch/world_model.launch"> </include>
+	<include file="$(find nubot_control)/launch/nubot_control.launch"> </include>
+	<node name="rqt_reconfigure" pkg="rqt_reconfigure" type="rqt_reconfigure" />
+</launch>
