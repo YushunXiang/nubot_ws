@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 build
 devel
 nubot_ws.workspace.user
 src-build
-=======
+
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -15,4 +15,5 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
->>>>>>> e38da9cce86461664e256aab0f02dc9b0c564b15
+
+.vscode
